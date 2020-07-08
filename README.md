@@ -1,0 +1,2 @@
+# RehabML
+This project focuses on creating some sort of prediction algorithm that can identify at-risk drug rehabilitation patients who will leave the program before they are healed. The dataset is from the Substance Abuse and Mental Health data archive and it has the discharge of every publicly funded rehab center in the United States. It can be downloaded (stata version is what I used and then converted to a csv file) on this website: https://www.datafiles.samhsa.gov/study-dataset/teds-d-2017-ds0001-teds-d-2017-ds0001-nid18480
